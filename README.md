@@ -30,5 +30,7 @@ The program generates:
 * Statistical analysis of stock prices
 * Stock price trend graph
 * Moving average visualization
+* <img width="1280" height="664" alt="stock_graph" src="https://github.com/user-attachments/assets/19a28400-9107-4199-8358-ab277351b827" />
+
 
 
